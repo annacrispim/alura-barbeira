@@ -6,12 +6,12 @@ body {
 }
 
 h1 {
-  text-align: center
-}
-p{
   text-align: center;
 }
 
+p{
+  text-align: center;
+}
 
 #missao {
   Font-size: 20px
@@ -19,4 +19,12 @@ p{
 
  em strong{
   color: #FF0000;
+}
+
+.itens{
+  font-style: italic;
+}
+
+.beneficios{
+  background: #FFFFFF
 }
