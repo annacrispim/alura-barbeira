@@ -30,21 +30,3 @@ p{
 .itens{
 
 }
-
-.beneficios{
-    background: #FFFFF;
-    padding: 20px;
-  h2{
-    text-align: center;
-  }
-
-ul {
-  display: inline-block;
-  vertical-align: top;
-  width: 50%;
-  margin-right: 15%;
-}
-
-.imagembeneficios {
-  width: 50%;
-}
